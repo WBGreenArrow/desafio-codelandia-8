@@ -1,0 +1,95 @@
+.container-vector {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    max-width: 120rem;
+    top: 0;
+}
+
+.vector-flex-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-vector-1 {
+    position: relative;
+    top: 19.7rem;
+    left: -3.2rem;
+    width: 20rem;
+    height: 20rem;
+    background: linear-gradient(136.92deg, #2dc7ed 3.14%, rgba(45, 199, 237, 0) 100%);
+    transform: rotate(45deg);
+}
+
+.content-vector-1 div img {
+    width: 15rem;
+    height: 15rem;
+}
+
+.content-vector-1 div {
+    transform: rotate(-45deg);
+}
+
+.content-vector-2 {
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    top: 19rem;
+    left: 74.9rem;
+    border-radius: 50%;
+    background: linear-gradient(270deg, #f2c94c 0%, rgba(242, 201, 76, 0) 100%);
+}
+
+.content-vector-2 div img {
+    width: 15rem;
+    height: 15rem;
+}
+
+.content-vector-3 {
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    top: 75rem;
+    right: 35rem;
+    background: linear-gradient(136.92deg, #ef7c89 3.14%, rgba(239, 124, 137, 0) 100%);
+    border-radius: 3rem;
+}
+
+.content-vector-3 div img {
+    width: 15rem;
+    height: 15rem;
+}
+
+.content-vector-4 {
+    width: 17rem;
+    height: 15rem;
+    position: relative;
+    top: 75rem;
+    left: 35rem;
+    background-image: url(../css/assets/polygon.svg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.content-vector-4 div img {
+    margin-top: 2rem;
+    width: 15rem;
+    height: 15rem;
+}
+
+.content-vector-5 {
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    top: 90.8rem;
+    right: 21rem;
+    border-radius: 50%;
+    background: linear-gradient(270deg, #7248ec 0%, rgba(114, 72, 236, 0) 100%);
+}
+
+.content-vector-5 div img {
+    margin-top: 2rem;
+    width: 15rem;
+    height: 15rem;
+}

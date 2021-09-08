@@ -48,10 +48,9 @@
     height: 5rem;
 }
 
-.container-flex span {
-    cursor: pointer;
-}
+
 
 .container-flex li :hover {
     opacity: 0.65;
+    cursor: pointer;
 }

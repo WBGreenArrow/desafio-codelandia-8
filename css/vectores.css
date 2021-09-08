@@ -15,7 +15,7 @@
 .content-vector-1 {
     position: relative;
     top: 19.7rem;
-    left: -3.2rem;
+    left: -10rem;
     width: 20rem;
     height: 20rem;
     background: linear-gradient(136.92deg, #2dc7ed 3.14%, rgba(45, 199, 237, 0) 100%);
@@ -36,7 +36,7 @@
     height: 20rem;
     position: relative;
     top: 19rem;
-    left: 74.9rem;
+    left: 69.9rem;
     border-radius: 50%;
     background: linear-gradient(270deg, #f2c94c 0%, rgba(242, 201, 76, 0) 100%);
 }
@@ -83,7 +83,7 @@
     height: 20rem;
     position: relative;
     top: 90.8rem;
-    right: 21rem;
+    right: 24rem;
     border-radius: 50%;
     background: linear-gradient(270deg, #7248ec 0%, rgba(114, 72, 236, 0) 100%);
 }

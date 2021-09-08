@@ -52,6 +52,6 @@
     cursor: pointer;
 }
 
-.container-flex :hover {
+.container-flex li :hover {
     opacity: 0.65;
 }
